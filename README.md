@@ -1,6 +1,8 @@
 # adult-income
 an machine learning for census about adult income
+
 https://gallery.cortanaintelligence.com/Experiment/adult-income-2022
+
 In this session
 • Sing Up FREE Azure ML Studio Subscription
 • Create Azure ML Studio workspace
@@ -71,5 +73,6 @@ Validation set
 
 Test set
 • Use to test the performances of a classifier • Never used during the training process • Give estimate of error
+
 project link:
 https://gallery.cortanaintelligence.com/Experiment/adult-income-2022
