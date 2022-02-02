@@ -1,6 +1,15 @@
 # adult-income
 an machine learning for census about adult income
 
+![image](https://user-images.githubusercontent.com/90760885/152102380-54b44fee-ffe9-43ef-80af-1900f9e7c057.png)
+dataset visualization:
+![image](https://user-images.githubusercontent.com/90760885/152102469-659b74dc-6d9e-4694-955e-0ca850dd05c9.png)
+train model visualization:
+![image](https://user-images.githubusercontent.com/90760885/152102754-18c7cef5-a232-46a4-8b9e-fd8c4b0c360d.png)
+
+
+
+
 https://gallery.cortanaintelligence.com/Experiment/adult-income-2022
 
 In this session
